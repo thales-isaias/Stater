@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&family=Space+Grotesk:wght@400;700&display=swap');
+
 .title{
     background: yellow;
+}
+
+body{
+    font-family: 'Space Grotesk', sans-serif;
 }
