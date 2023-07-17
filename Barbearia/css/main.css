@@ -1,3 +1,36 @@
+/* black1: #0B090A*/
+/* black2: #161A1D*/
+/* red1: #BA181B*/
+/* red2: #E5383B*/
+
+/* Generico*/
+
 body{
     font-family: 'Manrope', sans-serif;
 }
+
+.btn{
+    padding: 12px 24px;
+    background-color: transparent;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    text-transform: uppercase;
+}
+
+.container {
+    max-width: 1280px;
+}
+
+/* Layout */
+
+header{
+    background-color: #0B090A;
+    color: #FFFFFF;
+    padding: 24px 72px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+}
+
